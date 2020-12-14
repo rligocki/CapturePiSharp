@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPnMNwa/hPfTJoWrL/1sAk9et6/R/dT01P5kVUxI4qNup3O/D6Gt3G/qMo1LAH2jdfITKbqdpj5zWFYJw1qWEg==",
+  "success": true,
+  "projectFilePath": "/Users/roman/Documents/brano/CapturePiSharp/CapturePiSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/roman/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/roman/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/roman/.nuget/packages/opencvsharp4/4.5.0.20201013/opencvsharp4.4.5.0.20201013.nupkg.sha512",
+    "/Users/roman/.nuget/packages/opencvsharp4.runtime.ubuntu.18.04-x64/4.5.0.20201013/opencvsharp4.runtime.ubuntu.18.04-x64.4.5.0.20201013.nupkg.sha512",
+    "/Users/roman/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/Users/roman/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/roman/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

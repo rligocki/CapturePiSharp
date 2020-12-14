@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/roman/Documents/brano/CapturePiSharp/CapturePiSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/roman/Documents/brano/CapturePiSharp/CapturePiSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/roman/Documents/brano/CapturePiSharp/CapturePiSharp.csproj",
+        "projectName": "CapturePiSharp",
+        "projectPath": "/Users/roman/Documents/brano/CapturePiSharp/CapturePiSharp.csproj",
+        "packagesPath": "/Users/roman/.nuget/packages/",
+        "outputPath": "/Users/roman/Documents/brano/CapturePiSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/roman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            },
+            "OpenCvSharp4.runtime.ubuntu.18.04-x64": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
